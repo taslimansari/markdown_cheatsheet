@@ -41,6 +41,11 @@ ___
 * Item 3
     * Nested Item 1
     * Nested Item 2
+ 
+ #OR it can be... 
+    
+- Item 1
+   - Nested item 1
 
 <!-- Ordered list -->
 1. Item 1
@@ -50,6 +55,7 @@ ___
 
 <!-- Inline Code Block -->
 <p>This is a cute little paragraph</p>
+This paragraph has some `variable` inline code.
 
 <!-- Images -->
 ![Wanda Maximoff](https://i.pinimg.com/originals/2d/7c/96/2d7c96aa4cd785db0633da3ed609809b.jpg)
@@ -57,6 +63,11 @@ ___
 <!-- Github ki shuruwaat yaha se hoti hai -->
 
 <!-- Code Blocks -->
+```html
+    <h1>This is head</h1>
+    <p>This is a paragraph</p>
+```
+
 ```bash
     npm install
     
