@@ -1,3 +1,6 @@
+```
+   Hey there! This is a simple markdown cheatsheet for beginners. See its 'Raw' code to see how it actually works!
+```
 <!-- Headings -->
 # Heading 1
 ## Heading 2
