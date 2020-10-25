@@ -42,7 +42,7 @@ ___
     * Nested Item 1
     * Nested Item 2
  
- #OR it can be... 
+ # OR it can be... 
     
 - Item 1
    - Nested item 1
