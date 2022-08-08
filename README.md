@@ -31,9 +31,9 @@ ___
 >This is a quote hahahaha
 
 <!-- Links -->
-[Google Uncle](https://www.google.com)
+[Google](https://www.google.com)
 
-[Hangouts](https://hangouts.google.com "Hangouts")
+[YouTube](https://www.youtube.com "YouTube")
 
 <!-- unordered list -->
 * Item 1
